@@ -4,6 +4,10 @@ A simple Python desktop tool that converts an audio recording into editable
 text. It uses Python's built-in Tkinter library for the interface and the
 `SpeechRecognition` library for transcription.
 
+## Application Screenshot
+
+![Speech-to-Text application](images/app-screenshot.png)
+
 ## Features
 
 - Select WAV, AIFF, or FLAC audio recordings
